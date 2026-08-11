@@ -1,0 +1,492 @@
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+6569 [msec]
+Verified and logged: results/eps_0.0390_alpha_0.25_trial_61_H10_1.09516_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+6851 [msec]
+Verified and logged: results/eps_0.0370_alpha_0.25_trial_41_H10_1.09973_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+6610 [msec]
+Verified and logged: results/eps_0.0390_alpha_0.25_trial_27_H10_3.30019_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+6969 [msec]
+Verified and logged: results/eps_0.0450_alpha_0.25_trial_79_H10_1.03966_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+6765 [msec]
+Verified and logged: results/eps_0.0420_alpha_0.25_trial_16_H10_1.04854_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+6703 [msec]
+Verified and logged: results/eps_0.0320_alpha_0.25_trial_65_H10_3.67446_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+6805 [msec]
+Verified and logged: results/eps_0.0450_alpha_0.25_trial_58_H10_3.04807_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+6993 [msec]
+Verified and logged: results/eps_0.0340_alpha_0.25_trial_56_H10_1.14954_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+6826 [msec]
+Verified and logged: results/eps_0.0310_alpha_0.25_trial_24_H10_1.18025_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+6638 [msec]
+Verified and logged: results/eps_0.0450_alpha_0.25_trial_51_H10_1.02415_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+7005 [msec]
+Verified and logged: results/eps_0.0410_alpha_0.25_trial_83_H10_3.21039_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+6754 [msec]
+Verified and logged: results/eps_0.0410_alpha_0.25_trial_51_H10_1.07597_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+6581 [msec]
+Verified and logged: results/eps_0.0360_alpha_0.25_trial_100_H10_3.44787_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+6966 [msec]
+Verified and logged: results/eps_0.0310_alpha_0.25_trial_4_H10_1.18884_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+6646 [msec]
+Verified and logged: results/eps_0.0360_alpha_0.25_trial_68_H10_1.12642_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+6795 [msec]
+Verified and logged: results/eps_0.0370_alpha_0.25_trial_32_H10_1.11560_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+6695 [msec]
+Verified and logged: results/eps_0.0440_alpha_0.25_trial_2_H10_3.08669_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+6656 [msec]
+Verified and logged: results/eps_0.0430_alpha_0.25_trial_86_H10_3.12657_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+6605 [msec]
+Verified and logged: results/eps_0.0430_alpha_0.25_trial_75_H10_1.03988_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+6692 [msec]
+Verified and logged: results/eps_0.0360_alpha_0.25_trial_9_H10_1.11158_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+7207 [msec]
+Verified and logged: results/eps_0.0400_alpha_0.25_trial_43_H10_1.08543_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+8059 [msec]
+Verified and logged: results/eps_0.0380_alpha_0.25_trial_53_H10_1.10520_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+6998 [msec]
+Verified and logged: results/eps_0.0300_alpha_0.25_trial_91_H10_3.80357_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+6906 [msec]
+Verified and logged: results/eps_0.0400_alpha_0.25_trial_89_H10_3.25449_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+7133 [msec]
+Verified and logged: results/eps_0.0300_alpha_0.25_trial_71_H10_1.20345_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+7049 [msec]
+Verified and logged: results/eps_0.0350_alpha_0.25_trial_57_H10_1.12402_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+6950 [msec]
+Verified and logged: results/eps_0.0420_alpha_0.25_trial_94_H10_3.16777_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+6952 [msec]
+Verified and logged: results/eps_0.0340_alpha_0.25_trial_12_H10_3.55641_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+7237 [msec]
+Verified and logged: results/eps_0.0310_alpha_0.25_trial_84_H10_3.73752_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+7033 [msec]
+Verified and logged: results/eps_0.0390_alpha_0.25_trial_79_H10_1.07766_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+7105 [msec]
+Verified and logged: results/eps_0.0380_alpha_0.25_trial_28_H10_3.34757_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+6787 [msec]
+Verified and logged: results/eps_0.0420_alpha_0.25_trial_9_H10_1.06671_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+6975 [msec]
+Verified and logged: results/eps_0.0320_alpha_0.25_trial_17_H10_1.17504_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+6698 [msec]
+Verified and logged: results/eps_0.0370_alpha_0.25_trial_53_H10_3.39676_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+7344 [msec]
+Verified and logged: results/eps_0.0440_alpha_0.25_trial_30_H10_1.04861_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+7438 [msec]
+Verified and logged: results/eps_0.0330_alpha_0.25_trial_100_H10_1.16196_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+6685 [msec]
+Verified and logged: results/eps_0.0350_alpha_0.25_trial_62_H10_3.50103_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+6766 [msec]
+Verified and logged: results/eps_0.0430_alpha_0.25_trial_26_H10_1.05761_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+6661 [msec]
+Verified and logged: results/eps_0.0330_alpha_0.25_trial_60_H10_3.61416_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+6578 [msec]
+Verified and logged: results/eps_0.0350_alpha_0.25_trial_50_H10_1.13771_order80
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+Linear solver Check || I - RA || < 1: 1.6739552650542761e-15 < 1 ?
+Linear solver Check || I - RA || < 1: 6.7038607691721988e-16 < 1 ?
+6869 [msec]
+Verified and logged: results/eps_0.0410_alpha_0.25_trial_91_H10_1.05773_order80
